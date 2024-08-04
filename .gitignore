@@ -1,0 +1,7 @@
+.env
+plan.txt
+/league_data/my_game_logs.py
+/league_data/champion_data.json
+/league_data/archived_data/
+/league_data/data_processor.py
+reference_code.py
